@@ -4,7 +4,7 @@
 
 Привет 👋,
 
-My name is emy. I enjoy coding, exploring new technologies and working on different projects. :sunglasses:
+My name is emy. I enjoy coding, exploring new technologies and working on different projects :sunglasses:
 
 <details>
   <summary>Technologies I'm using ..</summary>
