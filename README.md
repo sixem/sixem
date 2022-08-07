@@ -1,5 +1,5 @@
 <p>
-  <img width="190" align='right' src="./assets/image.webp">
+  <img width="190" align='right' src="./assets/image_sh.webp">
 </p>
 
 Привет 👋,
