@@ -1,5 +1,5 @@
 <p>
-  <img width="200" align='right' src="./assets/image.webp">
+  <img width="190" align='right' src="./assets/image.webp">
 </p>
 
 Привет 👋,
@@ -24,4 +24,4 @@ My name is emy. I enjoy coding, exploring new technologies and working on differ
 
 Thanks for checking out my profile. Have a nice day! :sparkles:
 
-:umbrella: <a href="https://relax.five.sh/share/mAMaVX">https://relax.five.sh/share/mAMaVX</a>
+:umbrella: <a href="https://relax.five.sh/share/mAMaVX" target="_blank">https://relax.five.sh/share/mAMaVX</a>
