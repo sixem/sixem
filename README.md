@@ -10,14 +10,14 @@ My name is emy. I enjoy coding, exploring new technologies and working on differ
   <summary>Technologies I'm using ..</summary>
   </br>
   
-* <a href="https://nodejs.org/en/">Node</a>
-* <a href="https://reactjs.org/">React</a>
-* <a href="https://www.php.net/">PHP</a>
+* <a href="https://github.com/nodejs/node">Node</a>
+* <a href="https://github.com/facebook/react">React</a>
+* <a href="https://github.com/php/php-src">PHP</a>
 * <a href="https://www.python.org/">Python</a>
 * <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a>
 * <a href="https://www.mysql.com/">MySQL</a>
-* <a href="https://www.nginx.com/">NGINX</a>
-* <a href="https://sass-lang.com/">Sass</a>
+* <a href="https://github.com/nginx/nginx">NGINX</a>
+* <a href="https://github.com/sass/sass">Sass</a>
 * <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">Bash</a>
 
 </details>
