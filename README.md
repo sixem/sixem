@@ -1,5 +1,5 @@
 <p>
-  <img width="190" align='right' src="./assets/image_sh.webp">
+  <img width="190" align='right' src="./assets/image_dragon.webp">
 </p>
 
 Привет 👋,
@@ -10,7 +10,7 @@ My name is emy. I enjoy coding, exploring new technologies and working on differ
   <summary>Technologies I'm using ..</summary>
   </br>
   
-* <a href="https://github.com/nodejs/node">Node</a>
+* <a href="https://github.com/nodejs/node">Node (JS + TS)</a>
 * <a href="https://github.com/facebook/react">React</a>
 * <a href="https://github.com/php/php-src">PHP</a>
 * <a href="https://www.python.org/">Python</a>
