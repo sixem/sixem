@@ -1,13 +1,13 @@
 <p>
-  <img width="190" align='right' src="./assets/image_dragon.webp">
+  <img width="190" align='right' src="./assets/sunset.gif">
 </p>
 
 Привет 👋,
 
-My name is emy. I enjoy coding, exploring new technologies and working on different projects :sunglasses:
+I'm emy. I enjoy writing code, exploring new technologies, and working on different projects :sunglasses:
 
 <details>
-  <summary>Technologies I'm using ..</summary>
+  <summary>Technologies I'm often using ..</summary>
   </br>
   
 * <a href="https://github.com/nodejs/node">Node (JS + TS)</a>
@@ -22,6 +22,6 @@ My name is emy. I enjoy coding, exploring new technologies and working on differ
 
 </details>
 
-Thanks for checking out my profile. Have a nice day! :sparkles:
+Thanks for checking out my profile, and have a nice day! :sparkles:
 
 :umbrella: <a href="https://relax.five.sh/share/svQcaK" target="_blank">https://relax.five.sh/share/svQcaK</a>
