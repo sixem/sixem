@@ -1,5 +1,5 @@
 <p>
-  <img width="190" align='right' src="./assets/user.png">
+  <img width="190" align='right' src="./assets/computer.png">
 </p>
 
 Привет 👋,
