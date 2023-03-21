@@ -11,7 +11,7 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 
 #### :building_construction: Currently I'm working on:
 * [IVFi](https://ivfi.io/) - The image and video friendly indexer
-* [five.sh](https://five.sh/) - My personal website
+* [FIVE.SH](https://five.sh/) - My personal website
 * Arhiving and safekeeping of a bunch of media
 
 #### Thanks for checking out my profile, and have a nice day! :sparkles:
