@@ -7,7 +7,7 @@
 I'm emy! I enjoy writing code, and exploring and learning about new technologies.
 
 #### :screwdriver: Technologies I'm often using:
-[![My Skills](https://skillicons.dev/icons?i=ts,sass,cs,docker,nginx,nodejs,aws,react,bash,linux,mysql,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,sass,cs,docker,nginx,nodejs,aws,react,bash,linux,mysql,php,py&perline=7)](https://skillicons.dev)
 
 #### :building_construction: Currently I'm working on:
 * [IVFi](https://ivfi.io/) - The image and video friendly indexer
