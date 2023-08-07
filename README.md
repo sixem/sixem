@@ -4,7 +4,7 @@
 
 [Discord](https://discordapp.com/users/770723525874810890) | [Telegram](https://t.me/actualemy) | [Twitch](https://www.twitch.tv/2020)
 
-## Привет 👋,
+## Привет 💫,
 
 I'm emy! I enjoy writing code, and exploring and learning about new technologies.
 
