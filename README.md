@@ -2,7 +2,7 @@
   <img width="190" align='right' src="./assets/computer.png">
 </p>
 
-[Discord](https://discordapp.com/users/770723525874810890) | [Telegram](https://t.me/actualemy) | [Twitch](https://www.twitch.tv/2020)
+[Discord](https://discord.gg/F2nEtKeV) | [Telegram](https://t.me/actualemy) | [Twitch](https://www.twitch.tv/2020)
 
 ## Привет 👋,
 
@@ -16,6 +16,7 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 * [FIVE.SH](https://five.sh/) - My personal website
 * A bunch of other random projects
 * Archiving and safekeeping of a bunch of media
+* Maybe learning Rust...
 
 #### Thanks for checking out my profile, and have a nice day! :sparkles:
 
