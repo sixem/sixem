@@ -21,3 +21,7 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 #### Thanks for checking out my profile, and have a nice day! :sparkles:
 
 :umbrella: <a href="https://relax.five.sh/share/svQcaK" target="_blank">https://relax.five.sh/share/svQcaK</a>
+
+---
+
+Feeling <sup>lost</sup>? _Check_ **out** <a href="https://capsule.mom/" target="_blank">Capsule</a> ~today~ — <sub>Powered by QuantumDB!</sub>
