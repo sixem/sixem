@@ -24,4 +24,4 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 
 ---
 
-Feeling <sup>lost</sup>? _Check_ **out** <a href="https://capsule.mom/" target="_blank">Capsule</a> ~today~ — <sub>Powered by QuantumDB!</sub>
+Feeling <sup>lost</sup>? _Check_ **out** <a href="https://night.gg/" target="_blank">Night</a> ~today~ — <sub>Powered by QuantumDB!</sub>
