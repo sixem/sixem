@@ -12,7 +12,7 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 [![My Skills](https://skillicons.dev/icons?i=ts,sass,cs,docker,nginx,nodejs,aws,react,bash,linux,mysql,php,py,webpack&perline=7)](https://skillicons.dev)
 
 #### :building_construction: Currently I'm working on:
-* [IVFi](https://ivfi.io/) - The image and video friendly indexer
+* [IVFi]([https://ivfi.io/](https://sixem.github.io/ivfi-php/#/)) - The image and video friendly indexer
 * [FIVE.SH](https://five.sh/) - My personal website
 * A bunch of other random projects
 * Archiving and safekeeping of a bunch of media
