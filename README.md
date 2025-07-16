@@ -2,16 +2,16 @@
   <img width="190" align='right' src="./assets/computer.png">
 </p>
 
-[Discord](https://discordapp.com/users/770723525874810890) | [Telegram](https://t.me/actualemy) | [Twitch](https://www.twitch.tv/2020)
+[Discord (ID: hextet)](https://discordapp.com/users/770723525874810890) | [Telegram](https://t.me/actualemy) | [Twitch](https://www.twitch.tv/2020)
 
-### Привет 👋,
+### Hey 👋,
 
 I'm emy! I enjoy writing code, and exploring and learning about new technologies.
 
-#### ⚗️ Technologies I'm using:
+#### ⚗️ Stuff I'm currently using:
 [![My Skills](https://skillicons.dev/icons?i=nginx,docker,ts,rust,cs,c,sass,git,aws,react,bash,bun,kotlin,tauri,vscode,postgres,php,py,vite,gradle,linux,neovim,md,obsidian&perline=8)](https://skillicons.dev)
 
-#### 🔨 Currently I'm working on:
+#### 🔨 I'm working on:
 * **[IVFi](https://git.five.sh/ivfi/)** - The image and video friendly indexer
 * **[FIVE.SH](https://five.sh/)** - My personal website
 * Many random projects that I don't really have time for
