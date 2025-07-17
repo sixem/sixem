@@ -13,15 +13,12 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 
 #### 🔨 I'm working on:
 * **[IVFi](https://git.five.sh/ivfi/)** - The image and video friendly indexer
+* **[ImageRot](https://github.com/sixem/imagerot)** - A browser-compatible image editor
 * **[FIVE.SH](https://five.sh/)** - My personal website
 * Many random projects that I don't really have time for
 * Archiving and safekeeping of data
-* Working on **_Ôry.n** :eyes:
+* Working on **_Ôry.n** - A desktop launcher
 
 #### Thanks for checking out my profile, and have a nice day! :sparkles:
 
 :umbrella: <a href="https://relax.five.sh/share/svQcaK" target="_blank">https://relax.five.sh/share/svQcaK</a>
-
----
-
-Feeling <sup>lost</sup>? _Check_ **out** <a href="https://night.gg/" target="_blank">Night</a> ~today~ — <sub>Powered by QuantumDB!</sub>
