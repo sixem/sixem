@@ -14,6 +14,7 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 #### 🔨 I'm working on:
 * **[IVFi](https://git.five.sh/ivfi/)** - The image and video friendly indexer
 * **[ImageRot](https://github.com/sixem/imagerot)** - A browser-compatible image editor
+* **[ImageRot UI](https://github.com/sixem/imagerot-ui)** - A UI for the ImageRot library
 * **[FIVE.SH](https://five.sh/)** - My personal website
 * Many random projects that I don't really have time for
 * Archiving and safekeeping of data
