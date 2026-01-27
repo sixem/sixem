@@ -17,8 +17,9 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 * **[ImageRot UI](https://github.com/sixem/imagerot-ui)** - A UI for the ImageRot library
 * **[FIVE.SH](https://five.sh/)** - My personal website
 * Many random projects that I don't really have time for
-* Archiving and safekeeping of data
+* Archiving and safekeeping of data (100+ TB, yay)
 * Working on **_Ôry.n** - A desktop launcher
+* Working on **Stratum** - A modern file manager
 
 #### Thanks for checking out my profile, and have a nice day! :sparkles:
 
