@@ -15,9 +15,10 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 * **[IVFi](https://git.five.sh/ivfi/)** - The image and video friendly indexer
 * **[ImageRot](https://github.com/sixem/imagerot)** - A browser-compatible image editor
 * **[ImageRot UI](https://github.com/sixem/imagerot-ui)** - A UI for the ImageRot library
-* **[FIVE.SH](https://five.sh/)** - My personal website
+* **[BitRot](https://github.com/sixem/bitrot)** - A program for applying glitch-like effects to videos!
+* **[FIVE.SH](https://five.sh/)** - My personal website...
 * Many random projects that I don't really have time for
-* Archiving and safekeeping of data (100+ TB, yay)
+* Archiving and safekeeping of data (100+ TB, yay?)
 * Working on **_Ôry.n** - A desktop launcher
 * Working on **Stratum** - A modern file manager
 
