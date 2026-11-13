@@ -24,4 +24,4 @@ I'm emy! I enjoy writing code, and exploring and learning about new technologies
 
 #### Thanks for checking out my profile, and have a nice day! :sparkles:
 
-:umbrella: <a href="https://relax.five.sh/share/svQcaK" target="_blank">https://relax.five.sh/share/svQcaK</a>
+:umbrella: <a href="https://five.sh/relax/" target="_blank">https://five.sh/relax/</a>
